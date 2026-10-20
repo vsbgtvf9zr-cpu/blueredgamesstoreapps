@@ -1,0 +1,2 @@
+# blueredgamesstoreapps
+リンク集アプリです。効率化によくできたように設計されています
